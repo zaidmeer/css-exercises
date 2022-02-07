@@ -1,3 +1,8 @@
+.first, .second{
+    font-size: 26px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
 .first{
     color: white;
     background-color: black;
@@ -7,7 +12,3 @@
     background-color: yellow;
 }
 
-.shared{
-    font-size: 26px;
-    font-family: Helvetica, "Times New Roman", sans-serif;
-}
